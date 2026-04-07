@@ -8,4 +8,5 @@ g++ algorithms_assignment1.cpp -o output
 ./output
 
 ## Author
-Name: Your Name
+Name: Vishal Kumar
+
